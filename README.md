@@ -1,1 +1,1 @@
-# BE1
+# bean-scene-app
